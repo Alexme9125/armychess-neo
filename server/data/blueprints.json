@@ -1,0 +1,4284 @@
+[
+  {
+    "code": "325799",
+    "name": "⚡ 雷霆模式 (全司令)",
+    "placements": [
+      {
+        "index": 0,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 1,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 2,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 3,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 4,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 5,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 7,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 9,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 10,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 11,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 13,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 14,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 15,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 17,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 19,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 20,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 21,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 22,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 23,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 24,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 25,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 26,
+        "pieceType": "flag"
+      },
+      {
+        "index": 27,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 28,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 29,
+        "pieceType": "field_marshal"
+      }
+    ],
+    "createdAt": 1788587312190,
+    "easterEgg": "thunder"
+  },
+  {
+    "code": "350234",
+    "name": "💣 炸弹兵模式 (全排雷爆破流)",
+    "placements": [
+      {
+        "index": 0,
+        "pieceType": "bomb"
+      },
+      {
+        "index": 1,
+        "pieceType": "bomb"
+      },
+      {
+        "index": 2,
+        "pieceType": "bomb"
+      },
+      {
+        "index": 3,
+        "pieceType": "bomb"
+      },
+      {
+        "index": 4,
+        "pieceType": "bomb"
+      },
+      {
+        "index": 5,
+        "pieceType": "bomb"
+      },
+      {
+        "index": 7,
+        "pieceType": "bomb"
+      },
+      {
+        "index": 9,
+        "pieceType": "bomb"
+      },
+      {
+        "index": 10,
+        "pieceType": "bomb"
+      },
+      {
+        "index": 11,
+        "pieceType": "bomb"
+      },
+      {
+        "index": 13,
+        "pieceType": "bomb"
+      },
+      {
+        "index": 14,
+        "pieceType": "bomb"
+      },
+      {
+        "index": 15,
+        "pieceType": "bomb"
+      },
+      {
+        "index": 17,
+        "pieceType": "bomb"
+      },
+      {
+        "index": 19,
+        "pieceType": "bomb"
+      },
+      {
+        "index": 20,
+        "pieceType": "bomb"
+      },
+      {
+        "index": 21,
+        "pieceType": "bomb"
+      },
+      {
+        "index": 22,
+        "pieceType": "bomb"
+      },
+      {
+        "index": 23,
+        "pieceType": "bomb"
+      },
+      {
+        "index": 24,
+        "pieceType": "bomb"
+      },
+      {
+        "index": 25,
+        "pieceType": "engineer"
+      },
+      {
+        "index": 26,
+        "pieceType": "flag"
+      },
+      {
+        "index": 27,
+        "pieceType": "engineer"
+      },
+      {
+        "index": 28,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 29,
+        "pieceType": "engineer"
+      }
+    ],
+    "createdAt": 1788587312190,
+    "easterEgg": "bomb_engineer"
+  },
+  {
+    "code": "CLASS1",
+    "name": "经典平衡防御阵",
+    "placements": [
+      {
+        "index": 0,
+        "pieceType": "platoon_commander"
+      },
+      {
+        "index": 1,
+        "pieceType": "company_commander"
+      },
+      {
+        "index": 2,
+        "pieceType": "battalion_commander"
+      },
+      {
+        "index": 3,
+        "pieceType": "company_commander"
+      },
+      {
+        "index": 4,
+        "pieceType": "platoon_commander"
+      },
+      {
+        "index": 5,
+        "pieceType": "engineer"
+      },
+      {
+        "index": 7,
+        "pieceType": "regiment_commander"
+      },
+      {
+        "index": 9,
+        "pieceType": "engineer"
+      },
+      {
+        "index": 10,
+        "pieceType": "brigade_commander"
+      },
+      {
+        "index": 11,
+        "pieceType": "division_commander"
+      },
+      {
+        "index": 13,
+        "pieceType": "brigade_commander"
+      },
+      {
+        "index": 14,
+        "pieceType": "division_commander"
+      },
+      {
+        "index": 15,
+        "pieceType": "bomb"
+      },
+      {
+        "index": 17,
+        "pieceType": "corps_commander"
+      },
+      {
+        "index": 19,
+        "pieceType": "bomb"
+      },
+      {
+        "index": 20,
+        "pieceType": "company_commander"
+      },
+      {
+        "index": 21,
+        "pieceType": "landmine"
+      },
+      {
+        "index": 22,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 23,
+        "pieceType": "landmine"
+      },
+      {
+        "index": 24,
+        "pieceType": "platoon_commander"
+      },
+      {
+        "index": 25,
+        "pieceType": "engineer"
+      },
+      {
+        "index": 26,
+        "pieceType": "flag"
+      },
+      {
+        "index": 27,
+        "pieceType": "landmine"
+      },
+      {
+        "index": 28,
+        "pieceType": "regiment_commander"
+      },
+      {
+        "index": 29,
+        "pieceType": "battalion_commander"
+      }
+    ],
+    "createdAt": 1788537784263
+  },
+  {
+    "code": "RUSH01",
+    "name": "闪电铁道突击阵",
+    "placements": [
+      {
+        "index": 0,
+        "pieceType": "division_commander"
+      },
+      {
+        "index": 1,
+        "pieceType": "company_commander"
+      },
+      {
+        "index": 2,
+        "pieceType": "battalion_commander"
+      },
+      {
+        "index": 3,
+        "pieceType": "company_commander"
+      },
+      {
+        "index": 4,
+        "pieceType": "division_commander"
+      },
+      {
+        "index": 5,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 7,
+        "pieceType": "regiment_commander"
+      },
+      {
+        "index": 9,
+        "pieceType": "corps_commander"
+      },
+      {
+        "index": 10,
+        "pieceType": "engineer"
+      },
+      {
+        "index": 11,
+        "pieceType": "brigade_commander"
+      },
+      {
+        "index": 13,
+        "pieceType": "brigade_commander"
+      },
+      {
+        "index": 14,
+        "pieceType": "engineer"
+      },
+      {
+        "index": 15,
+        "pieceType": "bomb"
+      },
+      {
+        "index": 17,
+        "pieceType": "regiment_commander"
+      },
+      {
+        "index": 19,
+        "pieceType": "bomb"
+      },
+      {
+        "index": 20,
+        "pieceType": "platoon_commander"
+      },
+      {
+        "index": 21,
+        "pieceType": "landmine"
+      },
+      {
+        "index": 22,
+        "pieceType": "battalion_commander"
+      },
+      {
+        "index": 23,
+        "pieceType": "landmine"
+      },
+      {
+        "index": 24,
+        "pieceType": "platoon_commander"
+      },
+      {
+        "index": 25,
+        "pieceType": "company_commander"
+      },
+      {
+        "index": 26,
+        "pieceType": "platoon_commander"
+      },
+      {
+        "index": 27,
+        "pieceType": "landmine"
+      },
+      {
+        "index": 28,
+        "pieceType": "flag"
+      },
+      {
+        "index": 29,
+        "pieceType": "engineer"
+      }
+    ],
+    "createdAt": 1788537784263
+  },
+  {
+    "code": "TFW4UT",
+    "name": "测试自定义阵型",
+    "placements": [
+      {
+        "index": 0,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 1,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 2,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 3,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 4,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 5,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 7,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 9,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 10,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 11,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 13,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 14,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 15,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 17,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 19,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 20,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 21,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 22,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 23,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 24,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 25,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 26,
+        "pieceType": "flag"
+      },
+      {
+        "index": 27,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 28,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 29,
+        "pieceType": "field_marshal"
+      }
+    ],
+    "createdAt": 1788537784266
+  },
+  {
+    "code": "6BP2KV",
+    "name": "测试自定义阵型",
+    "placements": [
+      {
+        "index": 0,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 1,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 2,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 3,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 4,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 5,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 7,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 9,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 10,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 11,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 13,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 14,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 15,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 17,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 19,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 20,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 21,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 22,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 23,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 24,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 25,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 26,
+        "pieceType": "flag"
+      },
+      {
+        "index": 27,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 28,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 29,
+        "pieceType": "field_marshal"
+      }
+    ],
+    "createdAt": 1788538152682
+  },
+  {
+    "code": "YDXKG9",
+    "name": "测试自定义阵型",
+    "placements": [
+      {
+        "index": 0,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 1,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 2,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 3,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 4,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 5,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 7,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 9,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 10,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 11,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 13,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 14,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 15,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 17,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 19,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 20,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 21,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 22,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 23,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 24,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 25,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 26,
+        "pieceType": "flag"
+      },
+      {
+        "index": 27,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 28,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 29,
+        "pieceType": "field_marshal"
+      }
+    ],
+    "createdAt": 1788538526219
+  },
+  {
+    "code": "7ZWZ3C",
+    "name": "测试自定义阵型",
+    "placements": [
+      {
+        "index": 0,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 1,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 2,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 3,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 4,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 5,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 7,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 9,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 10,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 11,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 13,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 14,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 15,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 17,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 19,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 20,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 21,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 22,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 23,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 24,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 25,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 26,
+        "pieceType": "flag"
+      },
+      {
+        "index": 27,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 28,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 29,
+        "pieceType": "field_marshal"
+      }
+    ],
+    "createdAt": 1788538950789
+  },
+  {
+    "code": "ZUM2NK",
+    "name": "测试自定义阵型",
+    "placements": [
+      {
+        "index": 0,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 1,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 2,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 3,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 4,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 5,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 7,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 9,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 10,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 11,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 13,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 14,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 15,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 17,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 19,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 20,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 21,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 22,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 23,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 24,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 25,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 26,
+        "pieceType": "flag"
+      },
+      {
+        "index": 27,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 28,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 29,
+        "pieceType": "field_marshal"
+      }
+    ],
+    "createdAt": 1788539051767
+  },
+  {
+    "code": "LCQBJG",
+    "name": "测试自定义阵型",
+    "placements": [
+      {
+        "index": 0,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 1,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 2,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 3,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 4,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 5,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 7,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 9,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 10,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 11,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 13,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 14,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 15,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 17,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 19,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 20,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 21,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 22,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 23,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 24,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 25,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 26,
+        "pieceType": "flag"
+      },
+      {
+        "index": 27,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 28,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 29,
+        "pieceType": "field_marshal"
+      }
+    ],
+    "createdAt": 1788539531474
+  },
+  {
+    "code": "XGPAU5",
+    "name": "测试自定义阵型",
+    "placements": [
+      {
+        "index": 0,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 1,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 2,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 3,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 4,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 5,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 7,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 9,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 10,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 11,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 13,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 14,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 15,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 17,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 19,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 20,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 21,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 22,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 23,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 24,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 25,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 26,
+        "pieceType": "flag"
+      },
+      {
+        "index": 27,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 28,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 29,
+        "pieceType": "field_marshal"
+      }
+    ],
+    "createdAt": 1788539565111
+  },
+  {
+    "code": "RHFJLK",
+    "name": "我的军棋阵型",
+    "placements": [
+      {
+        "index": 0,
+        "pieceType": "platoon_commander"
+      },
+      {
+        "index": 1,
+        "pieceType": "company_commander"
+      },
+      {
+        "index": 2,
+        "pieceType": "battalion_commander"
+      },
+      {
+        "index": 3,
+        "pieceType": "company_commander"
+      },
+      {
+        "index": 4,
+        "pieceType": "platoon_commander"
+      },
+      {
+        "index": 5,
+        "pieceType": "engineer"
+      },
+      {
+        "index": 7,
+        "pieceType": "regiment_commander"
+      },
+      {
+        "index": 9,
+        "pieceType": "engineer"
+      },
+      {
+        "index": 10,
+        "pieceType": "brigade_commander"
+      },
+      {
+        "index": 11,
+        "pieceType": "division_commander"
+      },
+      {
+        "index": 13,
+        "pieceType": "brigade_commander"
+      },
+      {
+        "index": 14,
+        "pieceType": "division_commander"
+      },
+      {
+        "index": 15,
+        "pieceType": "bomb"
+      },
+      {
+        "index": 17,
+        "pieceType": "corps_commander"
+      },
+      {
+        "index": 19,
+        "pieceType": "bomb"
+      },
+      {
+        "index": 20,
+        "pieceType": "company_commander"
+      },
+      {
+        "index": 21,
+        "pieceType": "landmine"
+      },
+      {
+        "index": 22,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 23,
+        "pieceType": "landmine"
+      },
+      {
+        "index": 24,
+        "pieceType": "platoon_commander"
+      },
+      {
+        "index": 25,
+        "pieceType": "engineer"
+      },
+      {
+        "index": 26,
+        "pieceType": "flag"
+      },
+      {
+        "index": 27,
+        "pieceType": "landmine"
+      },
+      {
+        "index": 29,
+        "pieceType": "regiment_commander"
+      },
+      {
+        "index": 28,
+        "pieceType": "battalion_commander"
+      }
+    ],
+    "createdAt": 1788540077585
+  },
+  {
+    "code": "4M7YYU",
+    "name": "测试自定义阵型",
+    "placements": [
+      {
+        "index": 0,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 1,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 2,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 3,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 4,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 5,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 7,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 9,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 10,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 11,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 13,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 14,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 15,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 17,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 19,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 20,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 21,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 22,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 23,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 24,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 25,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 26,
+        "pieceType": "flag"
+      },
+      {
+        "index": 27,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 28,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 29,
+        "pieceType": "field_marshal"
+      }
+    ],
+    "createdAt": 1788540277133
+  },
+  {
+    "code": "CS7JJY",
+    "name": "测试自定义阵型",
+    "placements": [
+      {
+        "index": 0,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 1,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 2,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 3,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 4,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 5,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 7,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 9,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 10,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 11,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 13,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 14,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 15,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 17,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 19,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 20,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 21,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 22,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 23,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 24,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 25,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 26,
+        "pieceType": "flag"
+      },
+      {
+        "index": 27,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 28,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 29,
+        "pieceType": "field_marshal"
+      }
+    ],
+    "createdAt": 1788540638091
+  },
+  {
+    "code": "8HMRFS",
+    "name": "测试自定义阵型",
+    "placements": [
+      {
+        "index": 0,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 1,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 2,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 3,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 4,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 5,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 7,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 9,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 10,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 11,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 13,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 14,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 15,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 17,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 19,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 20,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 21,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 22,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 23,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 24,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 25,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 26,
+        "pieceType": "flag"
+      },
+      {
+        "index": 27,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 28,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 29,
+        "pieceType": "field_marshal"
+      }
+    ],
+    "createdAt": 1788540882440
+  },
+  {
+    "code": "V2993L",
+    "name": "测试自定义阵型",
+    "placements": [
+      {
+        "index": 0,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 1,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 2,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 3,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 4,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 5,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 7,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 9,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 10,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 11,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 13,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 14,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 15,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 17,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 19,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 20,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 21,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 22,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 23,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 24,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 25,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 26,
+        "pieceType": "flag"
+      },
+      {
+        "index": 27,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 28,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 29,
+        "pieceType": "field_marshal"
+      }
+    ],
+    "createdAt": 1788541307139
+  },
+  {
+    "code": "DK5B9W",
+    "name": "测试自定义阵型",
+    "placements": [
+      {
+        "index": 0,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 1,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 2,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 3,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 4,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 5,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 7,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 9,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 10,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 11,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 13,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 14,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 15,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 17,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 19,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 20,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 21,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 22,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 23,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 24,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 25,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 26,
+        "pieceType": "flag"
+      },
+      {
+        "index": 27,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 28,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 29,
+        "pieceType": "field_marshal"
+      }
+    ],
+    "createdAt": 1788541337980
+  },
+  {
+    "code": "2VZBPS",
+    "name": "测试自定义阵型",
+    "placements": [
+      {
+        "index": 0,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 1,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 2,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 3,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 4,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 5,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 7,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 9,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 10,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 11,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 13,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 14,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 15,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 17,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 19,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 20,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 21,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 22,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 23,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 24,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 25,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 26,
+        "pieceType": "flag"
+      },
+      {
+        "index": 27,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 28,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 29,
+        "pieceType": "field_marshal"
+      }
+    ],
+    "createdAt": 1788578990740
+  },
+  {
+    "code": "DEF001",
+    "name": "铁壁固守阵",
+    "placements": [
+      {
+        "index": 0,
+        "pieceType": "platoon_commander"
+      },
+      {
+        "index": 1,
+        "pieceType": "company_commander"
+      },
+      {
+        "index": 2,
+        "pieceType": "platoon_commander"
+      },
+      {
+        "index": 3,
+        "pieceType": "company_commander"
+      },
+      {
+        "index": 4,
+        "pieceType": "platoon_commander"
+      },
+      {
+        "index": 5,
+        "pieceType": "company_commander"
+      },
+      {
+        "index": 7,
+        "pieceType": "battalion_commander"
+      },
+      {
+        "index": 9,
+        "pieceType": "battalion_commander"
+      },
+      {
+        "index": 10,
+        "pieceType": "engineer"
+      },
+      {
+        "index": 11,
+        "pieceType": "brigade_commander"
+      },
+      {
+        "index": 13,
+        "pieceType": "brigade_commander"
+      },
+      {
+        "index": 14,
+        "pieceType": "engineer"
+      },
+      {
+        "index": 15,
+        "pieceType": "division_commander"
+      },
+      {
+        "index": 17,
+        "pieceType": "bomb"
+      },
+      {
+        "index": 19,
+        "pieceType": "division_commander"
+      },
+      {
+        "index": 20,
+        "pieceType": "bomb"
+      },
+      {
+        "index": 21,
+        "pieceType": "landmine"
+      },
+      {
+        "index": 22,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 23,
+        "pieceType": "corps_commander"
+      },
+      {
+        "index": 24,
+        "pieceType": "engineer"
+      },
+      {
+        "index": 25,
+        "pieceType": "landmine"
+      },
+      {
+        "index": 26,
+        "pieceType": "flag"
+      },
+      {
+        "index": 27,
+        "pieceType": "landmine"
+      },
+      {
+        "index": 28,
+        "pieceType": "regiment_commander"
+      },
+      {
+        "index": 29,
+        "pieceType": "regiment_commander"
+      }
+    ],
+    "createdAt": 1788579518013
+  },
+  {
+    "code": "G27KT3",
+    "name": "测试自定义阵型",
+    "placements": [
+      {
+        "index": 0,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 1,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 2,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 3,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 4,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 5,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 7,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 9,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 10,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 11,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 13,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 14,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 15,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 17,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 19,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 20,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 21,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 22,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 23,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 24,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 25,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 26,
+        "pieceType": "flag"
+      },
+      {
+        "index": 27,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 28,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 29,
+        "pieceType": "field_marshal"
+      }
+    ],
+    "createdAt": 1788579518016
+  },
+  {
+    "code": "WNLM6G",
+    "name": "测试自定义阵型",
+    "placements": [
+      {
+        "index": 0,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 1,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 2,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 3,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 4,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 5,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 7,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 9,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 10,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 11,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 13,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 14,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 15,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 17,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 19,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 20,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 21,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 22,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 23,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 24,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 25,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 26,
+        "pieceType": "flag"
+      },
+      {
+        "index": 27,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 28,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 29,
+        "pieceType": "field_marshal"
+      }
+    ],
+    "createdAt": 1788579537475
+  },
+  {
+    "code": "CCGETL",
+    "name": "测试自定义阵型",
+    "placements": [
+      {
+        "index": 0,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 1,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 2,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 3,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 4,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 5,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 7,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 9,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 10,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 11,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 13,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 14,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 15,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 17,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 19,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 20,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 21,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 22,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 23,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 24,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 25,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 26,
+        "pieceType": "flag"
+      },
+      {
+        "index": 27,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 28,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 29,
+        "pieceType": "field_marshal"
+      }
+    ],
+    "createdAt": 1788580103458
+  },
+  {
+    "code": "5RQGL4",
+    "name": "测试自定义阵型",
+    "placements": [
+      {
+        "index": 0,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 1,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 2,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 3,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 4,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 5,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 7,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 9,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 10,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 11,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 13,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 14,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 15,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 17,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 19,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 20,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 21,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 22,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 23,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 24,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 25,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 26,
+        "pieceType": "flag"
+      },
+      {
+        "index": 27,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 28,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 29,
+        "pieceType": "field_marshal"
+      }
+    ],
+    "createdAt": 1788580616345
+  },
+  {
+    "code": "TL2557",
+    "name": "测试自定义阵型",
+    "placements": [
+      {
+        "index": 0,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 1,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 2,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 3,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 4,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 5,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 7,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 9,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 10,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 11,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 13,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 14,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 15,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 17,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 19,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 20,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 21,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 22,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 23,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 24,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 25,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 26,
+        "pieceType": "flag"
+      },
+      {
+        "index": 27,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 28,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 29,
+        "pieceType": "field_marshal"
+      }
+    ],
+    "createdAt": 1788580870995
+  },
+  {
+    "code": "75TEKT",
+    "name": "测试自定义阵型",
+    "placements": [
+      {
+        "index": 0,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 1,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 2,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 3,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 4,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 5,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 7,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 9,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 10,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 11,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 13,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 14,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 15,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 17,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 19,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 20,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 21,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 22,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 23,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 24,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 25,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 26,
+        "pieceType": "flag"
+      },
+      {
+        "index": 27,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 28,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 29,
+        "pieceType": "field_marshal"
+      }
+    ],
+    "createdAt": 1788581079747
+  },
+  {
+    "code": "KQ335L",
+    "name": "测试自定义阵型",
+    "placements": [
+      {
+        "index": 0,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 1,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 2,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 3,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 4,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 5,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 7,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 9,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 10,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 11,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 13,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 14,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 15,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 17,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 19,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 20,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 21,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 22,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 23,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 24,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 25,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 26,
+        "pieceType": "flag"
+      },
+      {
+        "index": 27,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 28,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 29,
+        "pieceType": "field_marshal"
+      }
+    ],
+    "createdAt": 1788581245519
+  },
+  {
+    "code": "9D333V",
+    "name": "测试自定义阵型",
+    "placements": [
+      {
+        "index": 0,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 1,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 2,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 3,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 4,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 5,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 7,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 9,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 10,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 11,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 13,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 14,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 15,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 17,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 19,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 20,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 21,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 22,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 23,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 24,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 25,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 26,
+        "pieceType": "flag"
+      },
+      {
+        "index": 27,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 28,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 29,
+        "pieceType": "field_marshal"
+      }
+    ],
+    "createdAt": 1788581850825
+  },
+  {
+    "code": "PJL4N7",
+    "name": "测试自定义阵型",
+    "placements": [
+      {
+        "index": 0,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 1,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 2,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 3,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 4,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 5,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 7,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 9,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 10,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 11,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 13,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 14,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 15,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 17,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 19,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 20,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 21,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 22,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 23,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 24,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 25,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 26,
+        "pieceType": "flag"
+      },
+      {
+        "index": 27,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 28,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 29,
+        "pieceType": "field_marshal"
+      }
+    ],
+    "createdAt": 1788582394532
+  },
+  {
+    "code": "BTHNH3",
+    "name": "测试自定义阵型",
+    "placements": [
+      {
+        "index": 0,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 1,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 2,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 3,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 4,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 5,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 7,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 9,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 10,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 11,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 13,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 14,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 15,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 17,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 19,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 20,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 21,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 22,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 23,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 24,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 25,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 26,
+        "pieceType": "flag"
+      },
+      {
+        "index": 27,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 28,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 29,
+        "pieceType": "field_marshal"
+      }
+    ],
+    "createdAt": 1788582640374
+  },
+  {
+    "code": "SFKFPA",
+    "name": "测试自定义阵型",
+    "placements": [
+      {
+        "index": 0,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 1,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 2,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 3,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 4,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 5,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 7,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 9,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 10,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 11,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 13,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 14,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 15,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 17,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 19,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 20,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 21,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 22,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 23,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 24,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 25,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 26,
+        "pieceType": "flag"
+      },
+      {
+        "index": 27,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 28,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 29,
+        "pieceType": "field_marshal"
+      }
+    ],
+    "createdAt": 1788582751304
+  },
+  {
+    "code": "FE6URK",
+    "name": "测试自定义阵型",
+    "placements": [
+      {
+        "index": 0,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 1,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 2,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 3,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 4,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 5,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 7,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 9,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 10,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 11,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 13,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 14,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 15,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 17,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 19,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 20,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 21,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 22,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 23,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 24,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 25,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 26,
+        "pieceType": "flag"
+      },
+      {
+        "index": 27,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 28,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 29,
+        "pieceType": "field_marshal"
+      }
+    ],
+    "createdAt": 1788583276454
+  },
+  {
+    "code": "BYJU4P",
+    "name": "测试自定义阵型",
+    "placements": [
+      {
+        "index": 0,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 1,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 2,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 3,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 4,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 5,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 7,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 9,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 10,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 11,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 13,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 14,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 15,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 17,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 19,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 20,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 21,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 22,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 23,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 24,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 25,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 26,
+        "pieceType": "flag"
+      },
+      {
+        "index": 27,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 28,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 29,
+        "pieceType": "field_marshal"
+      }
+    ],
+    "createdAt": 1788583840197
+  },
+  {
+    "code": "3GCBCK",
+    "name": "测试自定义阵型",
+    "placements": [
+      {
+        "index": 0,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 1,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 2,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 3,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 4,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 5,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 7,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 9,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 10,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 11,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 13,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 14,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 15,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 17,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 19,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 20,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 21,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 22,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 23,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 24,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 25,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 26,
+        "pieceType": "flag"
+      },
+      {
+        "index": 27,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 28,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 29,
+        "pieceType": "field_marshal"
+      }
+    ],
+    "createdAt": 1788586079479
+  },
+  {
+    "code": "PFZR8B",
+    "name": "测试自定义阵型",
+    "placements": [
+      {
+        "index": 0,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 1,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 2,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 3,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 4,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 5,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 7,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 9,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 10,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 11,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 13,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 14,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 15,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 17,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 19,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 20,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 21,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 22,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 23,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 24,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 25,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 26,
+        "pieceType": "flag"
+      },
+      {
+        "index": 27,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 28,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 29,
+        "pieceType": "field_marshal"
+      }
+    ],
+    "createdAt": 1788586131707
+  },
+  {
+    "code": "MFWCG6",
+    "name": "测试自定义阵型",
+    "placements": [
+      {
+        "index": 0,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 1,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 2,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 3,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 4,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 5,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 7,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 9,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 10,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 11,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 13,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 14,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 15,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 17,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 19,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 20,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 21,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 22,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 23,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 24,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 25,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 26,
+        "pieceType": "flag"
+      },
+      {
+        "index": 27,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 28,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 29,
+        "pieceType": "field_marshal"
+      }
+    ],
+    "createdAt": 1788586142751
+  },
+  {
+    "code": "US49CT",
+    "name": "测试自定义阵型",
+    "placements": [
+      {
+        "index": 0,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 1,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 2,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 3,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 4,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 5,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 7,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 9,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 10,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 11,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 13,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 14,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 15,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 17,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 19,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 20,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 21,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 22,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 23,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 24,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 25,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 26,
+        "pieceType": "flag"
+      },
+      {
+        "index": 27,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 28,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 29,
+        "pieceType": "field_marshal"
+      }
+    ],
+    "createdAt": 1788586334019
+  },
+  {
+    "code": "JZE4BK",
+    "name": "测试自定义阵型",
+    "placements": [
+      {
+        "index": 0,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 1,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 2,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 3,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 4,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 5,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 7,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 9,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 10,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 11,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 13,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 14,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 15,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 17,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 19,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 20,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 21,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 22,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 23,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 24,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 25,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 26,
+        "pieceType": "flag"
+      },
+      {
+        "index": 27,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 28,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 29,
+        "pieceType": "field_marshal"
+      }
+    ],
+    "createdAt": 1788586355024
+  },
+  {
+    "code": "4LNP2Z",
+    "name": "测试自定义阵型",
+    "placements": [
+      {
+        "index": 0,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 1,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 2,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 3,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 4,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 5,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 7,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 9,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 10,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 11,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 13,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 14,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 15,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 17,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 19,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 20,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 21,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 22,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 23,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 24,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 25,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 26,
+        "pieceType": "flag"
+      },
+      {
+        "index": 27,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 28,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 29,
+        "pieceType": "field_marshal"
+      }
+    ],
+    "createdAt": 1788586755331
+  },
+  {
+    "code": "T2TUC3",
+    "name": "测试自定义阵型",
+    "placements": [
+      {
+        "index": 0,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 1,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 2,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 3,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 4,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 5,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 7,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 9,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 10,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 11,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 13,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 14,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 15,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 17,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 19,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 20,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 21,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 22,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 23,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 24,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 25,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 26,
+        "pieceType": "flag"
+      },
+      {
+        "index": 27,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 28,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 29,
+        "pieceType": "field_marshal"
+      }
+    ],
+    "createdAt": 1788587162940
+  },
+  {
+    "code": "LC2ZBR",
+    "name": "测试自定义阵型",
+    "placements": [
+      {
+        "index": 0,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 1,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 2,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 3,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 4,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 5,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 7,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 9,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 10,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 11,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 13,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 14,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 15,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 17,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 19,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 20,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 21,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 22,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 23,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 24,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 25,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 26,
+        "pieceType": "flag"
+      },
+      {
+        "index": 27,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 28,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 29,
+        "pieceType": "field_marshal"
+      }
+    ],
+    "createdAt": 1788587312193
+  }
+]
