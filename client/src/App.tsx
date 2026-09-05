@@ -307,7 +307,7 @@ export function App() {
       </header>
 
       {/* Main Content Area */}
-      <main className="w-full flex-1 flex flex-col items-center justify-center z-10 py-6 px-2 sm:px-4">
+      <main className="w-full flex-1 flex flex-col items-center justify-center z-10 py-3 sm:py-6 px-2 sm:px-4">
         
         {/* VIEW 1: Active Chess Board (PVP or PVE) */}
         {currentGame ? (
@@ -452,37 +452,59 @@ export function App() {
               </div>
             </div>
 
-            {/* The Liquid Glass Chess Board with Side Tactical Mark Toolbar */}
-            <div className="relative flex items-center justify-center w-full">
-              <Board
-                board={currentGame.board}
-                selectedPos={selectedPos}
-                legalTargets={legalTargets}
-                lastMovedPos={currentGame.lastMove?.to}
-                viewerColor={viewerColor}
-                gameMode={currentGame.rules.gameMode}
-                fluidEvent={currentGame.fluidEvent}
-                lastMove={currentGame.lastMove}
-                tacticalMarks={tacticalMarks}
-                onSelectPiece={handleSelectPiece}
-                onMoveTo={handleMoveTo}
-                onContextMenuPiece={handleContextMenuPiece}
-                flipBoard={viewerColor !== 'white'}
-                theme={theme}
-              />
-
-              {/* Side Floating Tactical Mark Toolbar in Anqi Mode */}
-              {currentGame.rules.gameMode === 'anqi' && (
-                <TacticalMarkToolbar
-                  activeTool={activeMarkTool}
-                  onSelectTool={(tool) => {
-                    setActiveMarkTool(tool);
-                    setSelectedPos(null);
-                  }}
-                  onClearAll={() => setTacticalMarks({})}
-                  marksCount={Object.keys(tacticalMarks).length}
+            {/* The Liquid Glass Chess Board with Responsive Tactical Mark Toolbar */}
+            <div className="relative flex flex-col items-center justify-center w-full">
+              <div className="relative flex items-center justify-center">
+                <Board
+                  board={currentGame.board}
+                  selectedPos={selectedPos}
+                  legalTargets={legalTargets}
+                  lastMovedPos={currentGame.lastMove?.to}
+                  viewerColor={viewerColor}
+                  gameMode={currentGame.rules.gameMode}
+                  fluidEvent={currentGame.fluidEvent}
+                  lastMove={currentGame.lastMove}
+                  tacticalMarks={tacticalMarks}
+                  onSelectPiece={handleSelectPiece}
+                  onMoveTo={handleMoveTo}
+                  onContextMenuPiece={handleContextMenuPiece}
+                  flipBoard={viewerColor !== 'white'}
                   theme={theme}
                 />
+
+                {/* Desktop (lg+): Side Floating Tactical Mark Toolbar in Anqi Mode */}
+                {currentGame.rules.gameMode === 'anqi' && (
+                  <div className="hidden lg:block absolute left-full ml-3 xl:ml-4 top-1/2 -translate-y-1/2 z-40">
+                    <TacticalMarkToolbar
+                      activeTool={activeMarkTool}
+                      onSelectTool={(tool) => {
+                        setActiveMarkTool(tool);
+                        setSelectedPos(null);
+                      }}
+                      onClearAll={() => setTacticalMarks({})}
+                      marksCount={Object.keys(tacticalMarks).length}
+                      theme={theme}
+                      layout="vertical"
+                    />
+                  </div>
+                )}
+              </div>
+
+              {/* Mobile / Tablet (<lg): Horizontal Tactical Mark Toolbar docked directly below board */}
+              {currentGame.rules.gameMode === 'anqi' && (
+                <div className="lg:hidden mt-2.5 sm:mt-3.5 z-30 w-full flex justify-center px-2">
+                  <TacticalMarkToolbar
+                    activeTool={activeMarkTool}
+                    onSelectTool={(tool) => {
+                      setActiveMarkTool(tool);
+                      setSelectedPos(null);
+                    }}
+                    onClearAll={() => setTacticalMarks({})}
+                    marksCount={Object.keys(tacticalMarks).length}
+                    theme={theme}
+                    layout="horizontal"
+                  />
+                </div>
               )}
             </div>
 
