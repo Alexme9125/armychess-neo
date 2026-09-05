@@ -104,7 +104,7 @@
         "pieceType": "field_marshal"
       }
     ],
-    "createdAt": 1788587312190,
+    "createdAt": 1788590081408,
     "easterEgg": "thunder"
   },
   {
@@ -212,7 +212,7 @@
         "pieceType": "engineer"
       }
     ],
-    "createdAt": 1788587312190,
+    "createdAt": 1788590081408,
     "easterEgg": "bomb_engineer"
   },
   {
@@ -4280,5 +4280,112 @@
       }
     ],
     "createdAt": 1788587312193
+  },
+  {
+    "code": "EAEVAP",
+    "name": "测试自定义阵型",
+    "placements": [
+      {
+        "index": 0,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 1,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 2,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 3,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 4,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 5,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 7,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 9,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 10,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 11,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 13,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 14,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 15,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 17,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 19,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 20,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 21,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 22,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 23,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 24,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 25,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 26,
+        "pieceType": "flag"
+      },
+      {
+        "index": 27,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 28,
+        "pieceType": "field_marshal"
+      },
+      {
+        "index": 29,
+        "pieceType": "field_marshal"
+      }
+    ],
+    "createdAt": 1788590081411
   }
 ]
